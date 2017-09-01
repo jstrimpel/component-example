@@ -1,0 +1,22 @@
+{
+  "name": "component-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "builder": "^3.2.2",
+    "component-archetype": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstrimpel/component-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstrimpel/component-example/issues"
+  },
+  "homepage": "https://github.com/jstrimpel/component-example#readme"
+}
